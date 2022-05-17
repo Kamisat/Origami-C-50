@@ -1,0 +1,50 @@
+*{
+
+    background-color: rgb(50, 50, 50);
+
+    color: aliceblue;
+
+}
+
+.body{
+
+    display: flex;
+
+    justify-content:space-between;
+
+    font-style: italic;
+
+    font-size: 30px;
+
+
+}
+
+.grid{
+
+    display: flex;
+
+    flex-wrap:wrap;
+
+    justify-content:space-between;
+
+ 
+
+}
+
+.tsuru{
+
+    border: solid rgb(85, 9, 217);
+
+
+
+}
+.dragon{
+
+    border: solid rgb(85, 9, 217);
+
+}
+.flower{
+
+    border: solid rgb(85, 9, 217);
+
+}
